@@ -1,1 +1,1 @@
-# Explainable-AI-Explaining-Black-box-of-Machine-Learning-Models-in-Thyroid-Disease-Prediction
+# ExplainableAI: Explaining Blackbox of Machine Learning Models in Thyroid Disease Prediction
